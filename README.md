@@ -10,13 +10,6 @@ Efecto visual interactivo que modifica el comportamiento del cursor del mouse de
 
 (No requiere instalación)
 
----
-
-## 📸 Vista previa
-
-Agregá una captura o GIF dentro de la carpeta **/assets**
-
-![Preview](assets/preview.png)
 
 ---
 
