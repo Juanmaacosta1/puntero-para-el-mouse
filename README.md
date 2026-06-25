@@ -1,4 +1,4 @@
-# 🖱️ Puntero Interactivo para el Mouse
+#  Puntero Interactivo para el Mouse
 
 Efecto visual interactivo que modifica el comportamiento del cursor del mouse dentro de la página web, creando una experiencia dinámica y moderna para el usuario.
 
@@ -6,7 +6,7 @@ Efecto visual interactivo que modifica el comportamiento del cursor del mouse de
 
 ##  Probar el efecto
 
-👉 https://juanmaacosta1.github.io/puntero-para-el-mouse/
+ https://juanmaacosta1.github.io/puntero-para-el-mouse/
 
 (No requiere instalación)
 
@@ -28,20 +28,19 @@ Efecto visual interactivo que modifica el comportamiento del cursor del mouse de
 * Eventos de movimiento (`mousemove`)
 * Manipulación del DOM
 * Animaciones en JavaScript
-* Renderizado en tiempo real
 * Coordenadas de pantalla
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 * HTML5
 * CSS3
-* JavaScript puro (Vanilla JS)
+* JavaScript
 
 ---
 
-## 🧪 Ejecutar localmente
+##  Ejecutar localmente
 
 1. Clonar o descargar el repositorio
 2. Abrir `index.html` en el navegador
@@ -50,7 +49,7 @@ No necesita servidor ni dependencias.
 
 ---
 
-## 🎯 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Practicar el manejo de eventos del mouse y crear efectos visuales interactivos para mejorar la experiencia del usuario en páginas web.
 
@@ -61,7 +60,6 @@ Practicar el manejo de eventos del mouse y crear efectos visuales interactivos p
 * Diferentes estilos de cursor
 * Configuración de colores
 * Interacción al hacer clic
-* Compatibilidad móvil (touch)
 
 ---
 
